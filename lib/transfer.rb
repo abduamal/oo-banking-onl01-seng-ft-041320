@@ -3,7 +3,7 @@ class Transfer
   attr_reader :transfer
 
   def initialize(sender, receiver, amount)
-    Transfer.new(sender, receiver, 50) = self
+    
 
   end
 
