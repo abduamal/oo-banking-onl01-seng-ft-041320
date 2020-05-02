@@ -5,6 +5,6 @@ class Transfer
   def initialize(transfer, sender, receiver)
     @transfer = transfer
     @sender = amanada
-    @receiver = 
+    @receiver = avi
   end
 end
