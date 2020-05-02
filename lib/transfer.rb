@@ -4,7 +4,7 @@ class Transfer
 
   def initialize(transfer, sender, receiver)
     @transfer = transfer
-    @sender = bank_account.sender
+    @sender = sender
 
   end
 end
